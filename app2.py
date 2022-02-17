@@ -1,6 +1,6 @@
 import streamlit as st
 import qrcode
-from PIL import Image, ImageFilter
+#from PIL import Image, ImageFilter
 
 st.title('QRコード自動生成アプリL217')
 
